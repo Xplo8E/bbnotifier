@@ -1,0 +1,27 @@
+# Application configuration
+app:
+  concurrency: 10
+  data_dir: "data"
+
+# HackerOne scraper configuration
+scraper:
+  bbp_only: true
+  private_only: false
+  public_only: true
+  categories: "android"
+  active: true
+  include_oos: false
+  output_flags: "utc"
+  delimiter: ", "
+  print_real_time: false
+
+
+# Notification configuration
+notifications:
+  enabled: true  # Can be overridden by SEND_NOTIFICATIONS env var
+
+# Credentials (can be overridden by environment variables)
+credentials:
+  h1_username: ""  # Override with H1_USERNAME env var
+  h1_token: ""     # Override with H1_TOKEN env var
+  slack_webhook: "" # Override with SLACK_WEBHOOK_URL env var
