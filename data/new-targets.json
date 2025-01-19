@@ -1,0 +1,1769 @@
+{
+  "last_updated": "2025-01-19T19:22:55.426074886+05:30",
+  "targets": [
+    {
+      "program_name": "https://hackerone.com/stripe",
+      "target": "978516833",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423506651+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/six-group",
+      "target": "https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423521418+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/urbancompany",
+      "target": "982922982",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42353315+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/coda_bbp",
+      "target": "io.coda",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423567825+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "1528364633",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423578455+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/shein",
+      "target": "1080248000",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423589676+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/eufy_security",
+      "target": "com.security.care",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423600055+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "com.adobe.scan.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423609953+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "com.gs.gsnow.external",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423620262+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "586634331",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423631403+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ridewithvia",
+      "target": "6464473474",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423641853+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1454725763",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42365132+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "621574163",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423661619+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_lac",
+      "target": "Starbucks Peru iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423684222+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Turkey iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423694691+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grab",
+      "target": "1142114207",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423704389+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1498197033",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423714177+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.HongKong.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423724376+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/wellsfargo-bbp",
+      "target": "com.wf.mobilebanking",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423735107+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/exness",
+      "target": "Exness Trade: Online Trading",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423744794+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "com.flashgap.fruits",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423755374+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/metamask",
+      "target": "io.metamask.Metamask",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423765563+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1265170914",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423776053+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/eufy_security",
+      "target": "com.security.BatteryCam",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423787344+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_lac",
+      "target": "Starbucks Mexico iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42379589+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/yelp",
+      "target": "284910350",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423807421+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nordsecurity",
+      "target": "905953485",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42381739+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "ThePerfumeShop.App.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42382826+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/compass-bbp",
+      "target": "https://apps.apple.com/us/app/compass-real-estate-homes/id692766504",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42383905+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Austria iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42384984+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "com.gs.gstrader.external",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423860741+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/marriott",
+      "target": "455004730",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423871631+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": " Fortress.HongKong.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42388208+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/temu",
+      "target": "1641486558",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423891909+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bookingcom",
+      "target": "https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423900976+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/mercadolibre",
+      "target": "com.3mosquitos.MercadoLibre",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423910193+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "1456293789",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423919159+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/evernote",
+      "target": "281796108",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423927815+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks United Kingdom iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423941331+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goodrx",
+      "target": "com.goodrx.iphone",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423951379+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Marionnaud.Austria.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423960667+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/airbnb",
+      "target": "com.airbnb.app",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423970575+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "com.gs.pwmdigital.external",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423980293+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nextcloud",
+      "target": "com.peterandlinda.iOCNotes",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423990192+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/zendesk",
+      "target": "488534576",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.423999339+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/moneybird",
+      "target": "com.moneybird.Moneybird",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424008015+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "1604650263",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424016741+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Marionnaud.Italy.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424025417+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nba-public",
+      "target": "com.nbaimd.gametime.universal",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424034645+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/glassdoor",
+      "target": "1005070636",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424043301+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Indonesia.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424052598+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/capital-one-bounty",
+      "target": "407558537",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424062386+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/irccloud",
+      "target": "com.irccloud.IRCCloud",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424071904+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/wealthsimple",
+      "target": "com.wealthsimple.wealthsimple",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424082334+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "com.marcus.ios-uk",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424092222+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/basecamp",
+      "target": "com.basecamp.bc3-ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42410179+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/coinbase",
+      "target": "org.toshi.distribution",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424110716+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nicehash",
+      "target": "com.nicehash.mobile",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424120595+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/trendyol",
+      "target": "524362642",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424129611+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "654671575",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424138949+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1478350915",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424148487+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/deribit",
+      "target": "1293674041",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424157443+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grab",
+      "target": "1257641454",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424167913+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/etoro_bbp",
+      "target": "io.getdelta.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424177551+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/paypal",
+      "target": "351727428",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42418757+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/acronis",
+      "target": "1118448159",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424196316+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "719525810",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424205192+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/scopely",
+      "target": "id1621328561",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424215081+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/acronis",
+      "target": "978342143",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424224378+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/truecaller",
+      "target": "448142450",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424233766+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "947984433",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424244385+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks South Africa iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424253092+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grab",
+      "target": "647268330",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424261818+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/malwarebytes",
+      "target": "com.malwarebytes.Malwarebytes",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424270564+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/priceline",
+      "target": "336381998",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424280613+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_china",
+      "target": "Starbucks China iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424304477+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_japan",
+      "target": "Starbucks Japan iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424313645+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/zendesk",
+      "target": "1174276185",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424324084+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playstation",
+      "target": "410896080",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424333371+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/spotify",
+      "target": "com.spotify.client",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424342408+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ridewithvia",
+      "target": "6449737830",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424351625+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1532153219",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424362325+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/moonpay",
+      "target": "https://apps.apple.com/app/id1635031432",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424372454+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bykea",
+      "target": "1351179184",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424382022+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/scopely",
+      "target": "id1427744264",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42439183+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "com.getmeetio.Meetio-Enterprise",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424401488+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/paypal",
+      "target": "com.xoom.app",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424410535+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/koho",
+      "target": "1091010942",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424419943+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/verily_life_sciences",
+      "target": "https://apps.apple.com/us/app/verily-me/id6448808133",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42442945+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/dashlane",
+      "target": "com.dashlane.dashlanephonefinal",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424438397+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/khealth",
+      "target": "1180400838",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424448305+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_lac",
+      "target": "Starbucks Chile iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424457302+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "6444868926",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424467251+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "ICIParisXL.App.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424476909+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/snapchat",
+      "target": "com.toyopagroup.picaboo",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424487428+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "545519333",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424498839+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/freshworks",
+      "target": "Freshservice-Intune-iOS-App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42450953+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/kolesagroup",
+      "target": "965180355",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424520259+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/mercadolibre",
+      "target": "com.mercadopago.MercadoPago",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424531511+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1579372261",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424563059+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1116488672",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424573479+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/xverse",
+      "target": "com.secretkeylabs.xverse",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424583056+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/yelp",
+      "target": "542767785",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424594117+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/slack",
+      "target": "com.slack.slackmdm",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424605148+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/kolesagroup",
+      "target": "1431768824",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424616018+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/six-group",
+      "target": "https://apps.apple.com/us/app/bme-conecta/id6443938949",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424625455+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks",
+      "target": "com.starbucks.mystarbucks",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424634612+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "284803487",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.4246438+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "403546234",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424653207+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/coinhako",
+      "target": "com.coinhako.app",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424664378+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/vimeo",
+      "target": "425194759",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424673325+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/fanduel",
+      "target": "599664106",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424682101+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/miro",
+      "target": "1180074773",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424691679+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tiktok",
+      "target": "1591003012",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424701988+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "975035622",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424711476+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Marionnaud.France.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424721474+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/trendyol",
+      "target": "6467634418",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424731223+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/crowdstrike",
+      "target": "apps.apple.com/us/app/crowdstrike-falcon/id1458815656",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424741051+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "374254473",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424750889+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/freshworks",
+      "target": "Freshdesk-iOS-App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424760998+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1438744533",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424772529+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/wellsfargo-bbp",
+      "target": "com.wf.ceomobile",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424782318+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/yelp",
+      "target": "936983378",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424792507+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Germany iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424802616+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nordsecurity",
+      "target": "1486322860",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424812804+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/brave",
+      "target": "com.brave.ios.browser",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424824566+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/lyst",
+      "target": "597940518",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424835277+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Portugal iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424846257+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bybit_fintech",
+      "target": "https://apps.apple.com/us/app/bybit-app/id1488296980",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424857488+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks France iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424866885+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "930441707",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424878898+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/six-group",
+      "target": "https://apps.apple.com/mx/app/six-id/id1620496931",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424888926+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "284971959",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424898845+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1276296103",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424905828+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ridewithvia",
+      "target": "657777015",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424912831+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/shipt",
+      "target": "971888874",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424920886+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1659883691",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424927288+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/vodafone_oman",
+      "target": "1589071345",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424934321+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "com.badoo.hotornot",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424940683+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/freshworks",
+      "target": "Freshcaller-iOS-App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424947455+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "529996768",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424954078+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1200391796",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42496031+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/flickr",
+      "target": "328407587",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424966811+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/six-group",
+      "target": "https://apps.apple.com/mx/app/debix/id1581440132",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424973103+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "6444040977",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424979715+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "1476615877",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424985827+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/eero",
+      "target": "1023499075",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42499278+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Czech Republic",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.424999102+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "com.adobe.Adobe-Reader",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425005514+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/trendyol",
+      "target": "1127881507",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425011875+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Turkey.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425018518+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bcny",
+      "target": "id6472513080",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42502503+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "com.marcus.ios-us",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42503598+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "480523695",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425042492+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/crypto",
+      "target": "com.monaco.mobile",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425049095+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.TaiWan.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425058703+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Drogas.Lietuva.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425069373+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "483394780",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42507864+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "510855668",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425087416+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tiktok",
+      "target": "835599320",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425096974+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "342576766",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425103787+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "944011620",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425110078+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/hyatt",
+      "target": "476639005",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425117753+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/epicgames",
+      "target": "id1534920947",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425124495+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1510325826",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425130817+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "988788863",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42513771+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "531549799",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425144252+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1552455423",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425150614+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1223338261",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425156976+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/yoti",
+      "target": "983980808",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425163558+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nextcloud",
+      "target": "it.twsweb.Nextcloud",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425170792+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/s-pankki",
+      "target": "740514933",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425177123+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "6452192521",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425183325+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1215220850",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425189867+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/3cx",
+      "target": "https://apps.apple.com/us/app/3cx/id992045982",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425196289+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/dyson",
+      "target": "993135524",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425202591+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "868013618",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425208933+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "358861688",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425215204+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/remitly",
+      "target": "674258465",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425221436+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/verily_life_sciences",
+      "target": "https://apps.apple.com/us/app/onduo/id1138490045",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425227968+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/basecamp",
+      "target": "com.hey.app.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42523417+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/kayak",
+      "target": "com.kayak.travel",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425240782+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "427916203",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425247004+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Ireland iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425253606+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/nextcloud",
+      "target": "com.nextcloud.Talk",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425264136+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/instacart",
+      "target": "545599256",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425274084+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/glassdoor",
+      "target": "589698942",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425281608+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "351331194",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425288241+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/slack",
+      "target": "com.tinyspeck.chatlyio",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425295013+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grab",
+      "target": "1343620481",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425301165+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/exness",
+      "target": "Exness Investor",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425308098+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Thailand.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425314339+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "348712880",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425321933+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "1294578643",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425328946+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "566635048",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425335338+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/toolsforhumanity",
+      "target": "https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425342892+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/quora",
+      "target": "com.quora.app.mobile",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425349264+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/six-group",
+      "target": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425355476+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1508620125",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425362058+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "645949180",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42536825+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "447553564",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425374551+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/kolesagroup",
+      "target": "563291345",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425381274+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_lac",
+      "target": "Starbucks El Salvador iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425387566+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/vimeo",
+      "target": "493086499",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425394398+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grammarly",
+      "target": "com.grammarly.keyboard",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42540092+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "603097018",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425407312+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Marionnaud.Switzerland.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425414696+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Kruidvat.Netherlands.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425421248+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1448884851",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42542758+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/blockchain",
+      "target": "1557515848",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425434373+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "MoneyBack.HongKong.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425440865+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ring",
+      "target": "1013961111",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425447998+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "632344648",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425455753+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/exness",
+      "target": "Exness Social Trading",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425463297+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "1413287364",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425470039+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/chime",
+      "target": "com.1debit.ChimeProdApp",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425476652+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/boozt",
+      "target": "com.boozt.app",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425483013+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ring",
+      "target": "926252661",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425489275+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Malaysia.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425495948+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "880759727",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42550278+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "302584613",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425509563+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/eufy_security",
+      "target": "com.eufylife.EufyHome",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425517087+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/scopely",
+      "target": "id1541153375",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425523389+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tiktok",
+      "target": "1235601864",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425529711+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/netflix",
+      "target": "Netflix Mobile Application for iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425553876+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Poland iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425562221+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1057338687",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425569324+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/freshworks",
+      "target": "Freshchat-iOS-App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425575806+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bookingcom",
+      "target": "https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425582529+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Philippines.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425588931+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/goldmansachs",
+      "target": "GS Select iOS app",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425595503+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1494755014",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425602085+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1592204907",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425608257+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Romania iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425614689+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/epicgames",
+      "target": "id1520720139",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425622043+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Watsons.Singapore.IOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425628384+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/slack",
+      "target": "647922896",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425634415+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/lark_technologies",
+      "target": "1452166623",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425640637+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/trip_com",
+      "target": "com.trip.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425646798+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/kiwicom",
+      "target": "com.skypicker.Skypicker",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42565295+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tinder",
+      "target": "547702041",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425660003+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/acronis",
+      "target": "429704844",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425667668+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/clubhouse",
+      "target": "1503133294",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42567422+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "794141485",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425680902+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/zendesk",
+      "target": "549057844",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425687064+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "403684733",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425693265+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_lac",
+      "target": "Starbucks Argentina iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425700689+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/shein",
+      "target": "878577184",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425708824+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/grindr",
+      "target": "319881193",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425715366+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ring",
+      "target": "1218902777",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425722169+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/paypal",
+      "target": "com.paypal.merchant",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425728561+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/chia_network",
+      "target": "https://apps.apple.com/app/chia-signer/id6504493785 ",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425734943+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "335187483",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425741335+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/acronis",
+      "target": "1192506963",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425747837+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/coinspot",
+      "target": "1541949985",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425754269+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/x",
+      "target": "com.atebits.Tweetie2",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425760641+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/zomato",
+      "target": "434613896",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425766832+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playtika",
+      "target": "594802437",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425773004+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Switzerland iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425779185+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/airbnb",
+      "target": "com.luxuryretreats.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425785577+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Marionnaud.Romania.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425791628+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/ridewithvia",
+      "target": "469463298",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425798161+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/expediagroup_bbp",
+      "target": "1245772818",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425804503+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Kruidvat.Belgium.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425810614+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/linkedin",
+      "target": "288429040",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425816705+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/blockchain",
+      "target": "493253309",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425822826+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/freshworks",
+      "target": "Freshservice-iOS-App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425829178+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tiktok",
+      "target": "641062073",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.4258353+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/8x8-bounty",
+      "target": "8x8-work",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425841822+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/urbancompany",
+      "target": "1032480595",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425848444+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp-devices",
+      "target": "1324809509",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425855127+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/automattic",
+      "target": "com.tumblr.tumblr",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425861288+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "Drogas.Latvia.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42586777+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/logitech",
+      "target": "1018340690",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425874353+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bitmex",
+      "target": "1589023233",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425880484+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/boozt",
+      "target": "com.boozt.booztlet",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425886585+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/chime",
+      "target": "id1668462142",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425893298+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/zerobounce",
+      "target": "1671793296",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425900211+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "1475021574",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425907935+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/line",
+      "target": "443904275",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425914688+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/shipt",
+      "target": "976353472",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425920819+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "297606951",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425927802+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/eufy_security",
+      "target": "com.anker.AnkerMake",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425934224+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/watson_group",
+      "target": "PNS.HongKong.iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425940676+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/spotify",
+      "target": "com.anchorfminc.Anchor",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425947078+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/exodus",
+      "target": "exodus-movement.exodus",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.42595345+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/tide",
+      "target": "co.tide",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425960353+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/coinbase",
+      "target": "com.coinbase.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425970652+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/amazonvrp",
+      "target": "6471528064",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425980791+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/line",
+      "target": "539883307",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425987103+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/vimeo",
+      "target": "486781045",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.425993795+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/starbucks_emea",
+      "target": "Starbucks Spain iOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.426000648+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/capital-one-bounty",
+      "target": "1089294040",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.426007571+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/vimeo",
+      "target": "1491791513",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-01-19T19:22:55.426014233+05:30"
+    }
+  ]
+}
