@@ -8,7 +8,7 @@ scraper:
   bbp_only: true
   private_only: false
   public_only: true
-  categories: "android"
+  categories: "mobile"
   active: true
   include_oos: false
   output_flags: "utc"
