@@ -104,7 +104,7 @@ func (s *SlackNotifier) NotifyNewTargets(targets []Target) error {
 			return fmt.Errorf("failed to marshal slack message: %w", err)
 		}
 
-		s.logger.Printf("Sending payload to Slack: %s", string(payload))
+		// s.logger.Printf("Sending payload to Slack: %s", string(payload))
 		resp, err := http.Post(s.webhookURL, "application/json", bytes.NewBuffer(payload))
 		if err != nil {
 			return fmt.Errorf("failed to send slack webhook: %w", err)
