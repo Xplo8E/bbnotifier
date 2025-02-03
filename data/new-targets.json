@@ -1,155 +1,17 @@
 {
-  "last_updated": "2025-01-27T07:45:29.520020233+05:30",
+  "last_updated": "2025-02-03T07:44:11.638684304+05:30",
   "targets": [
     {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks India iOS",
+      "program_name": "https://hackerone.com/inspectorio",
+      "target": "https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96",
+      "category": "OTHER_APK",
+      "first_seen": "2025-02-03T07:44:11.638547579+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/slack",
+      "target": "https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896",
       "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519742906+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks India Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519754267+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Thailand iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519766069+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Australia Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519772691+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Cambodia Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519778903+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks New Zealand Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519788+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Taiwan iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519798119+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Thailand Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519810622+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Australia iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.51982004+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Korea Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.51983108+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Cambodia iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519840808+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Vietnam Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519847391+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Malaysia iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519857319+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Singapore Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.51986345+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Philippines iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519872627+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Malaysia Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519879731+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Philippines Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519891202+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Hong Kong Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519898115+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Indonesia iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.51990647+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks New Zealand iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519913063+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Taiwan Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519919455+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Vietnam iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519925616+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Hong Kong iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519939272+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Singapore iOS",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519950863+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/starbucks_apac",
-      "target": "Starbucks Indonesia Android",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-01-27T07:45:29.519961453+05:30"
+      "first_seen": "2025-02-03T07:44:11.638595949+05:30"
     }
   ]
 }
