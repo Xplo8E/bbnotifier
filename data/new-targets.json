@@ -1,17 +1,4 @@
 {
-  "last_updated": "2025-02-03T07:44:11.638684304+05:30",
-  "targets": [
-    {
-      "program_name": "https://hackerone.com/inspectorio",
-      "target": "https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96",
-      "category": "OTHER_APK",
-      "first_seen": "2025-02-03T07:44:11.638547579+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/slack",
-      "target": "https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-02-03T07:44:11.638595949+05:30"
-    }
-  ]
+  "last_updated": "2025-02-10T07:48:12.985993735+05:30",
+  "targets": []
 }
