@@ -1,4 +1,203 @@
 {
-  "last_updated": "2025-02-10T07:48:12.985993735+05:30",
-  "targets": []
+  "last_updated": "2025-02-17T07:50:38.181992406+05:30",
+  "targets": [
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "com.adobe.workfront",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.18151282+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.browser",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181526716+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.securepay",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181537436+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.speechassist",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181549819+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.opos.ads",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181561091+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.themestore",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181570698+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oplus.vip",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181579866+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "com.adobe.PSMobile",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181590425+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.market",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181601426+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oplus.member",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181633807+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.nearme.browser",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181643615+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.cloud",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181652852+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/toloka_ai",
+      "target": "id6504492387",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181667329+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.usercenter",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181680033+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.xgame",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181688479+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.nearme.themestore",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181697115+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "com.iphone.workfront",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181706232+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.fintech.life",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.18172124+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/adobe",
+      "target": "adobe.fresco.ios",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181734074+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.health.international",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.18174274+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.cloud",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181754452+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.nearme.themespace",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181765643+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.quicksearchbox",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181777355+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oplus.account",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181787955+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/xverse",
+      "target": "com.secretkeylabs.xverse",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181797753+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.speechassist",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181807701+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.market",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181820786+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oppo.encryption",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181831907+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.video",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181841625+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/toloka_ai",
+      "target": "ai.toloka.expert",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181850491+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.encryption",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181862524+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oplus.themestore",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181872903+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.browser",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-02-17T07:50:38.181883683+05:30"
+    }
+  ]
 }
