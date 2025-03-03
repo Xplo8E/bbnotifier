@@ -1,17 +1,47 @@
 {
-  "last_updated": "2025-02-24T07:52:21.977431537+05:30",
+  "last_updated": "2025-03-03T07:53:09.059168651+05:30",
   "targets": [
     {
-      "program_name": "https://hackerone.com/klarna",
-      "target": "Klarna iOS App (com.klarna.app)",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-02-24T07:52:21.977323265+05:30"
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.pictorial",
+      "category": "OTHER_APK",
+      "first_seen": "2025-03-03T07:53:09.059006648+05:30"
     },
     {
-      "program_name": "https://hackerone.com/klarna",
-      "target": "Klarna Android App (com.myklarnamobile)",
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.oplus.games",
+      "category": "OTHER_APK",
+      "first_seen": "2025-03-03T07:53:09.059030823+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.assistantscreen",
+      "category": "OTHER_APK",
+      "first_seen": "2025-03-03T07:53:09.059040121+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/whoop_bug_bounty",
+      "target": "com.whoop.iphone",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-03-03T07:53:09.059050951+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.coloros.pictorial",
+      "category": "OTHER_APK",
+      "first_seen": "2025-03-03T07:53:09.059069856+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/whoop_bug_bounty",
+      "target": "com.whoop.android",
       "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-02-24T07:52:21.977348682+05:30"
+      "first_seen": "2025-03-03T07:53:09.05907695+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/oppo_bbp",
+      "target": "com.heytap.music",
+      "category": "OTHER_APK",
+      "first_seen": "2025-03-03T07:53:09.059089142+05:30"
     }
   ]
 }
