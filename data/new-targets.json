@@ -1,47 +1,53 @@
 {
-  "last_updated": "2025-03-03T07:53:09.059168651+05:30",
+  "last_updated": "2025-03-30T07:31:01.379071768+05:30",
   "targets": [
     {
-      "program_name": "https://hackerone.com/oppo_bbp",
-      "target": "com.heytap.pictorial",
-      "category": "OTHER_APK",
-      "first_seen": "2025-03-03T07:53:09.059006648+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/oppo_bbp",
-      "target": "com.oplus.games",
-      "category": "OTHER_APK",
-      "first_seen": "2025-03-03T07:53:09.059030823+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/oppo_bbp",
-      "target": "com.coloros.assistantscreen",
-      "category": "OTHER_APK",
-      "first_seen": "2025-03-03T07:53:09.059040121+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/whoop_bug_bounty",
-      "target": "com.whoop.iphone",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-03-03T07:53:09.059050951+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/oppo_bbp",
-      "target": "com.coloros.pictorial",
-      "category": "OTHER_APK",
-      "first_seen": "2025-03-03T07:53:09.059069856+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/whoop_bug_bounty",
-      "target": "com.whoop.android",
+      "program_name": "https://hackerone.com/syfe_bbp",
+      "target": "com.syfe",
       "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-03-03T07:53:09.05907695+05:30"
+      "first_seen": "2025-03-30T07:31:01.378901309+05:30"
     },
     {
-      "program_name": "https://hackerone.com/oppo_bbp",
-      "target": "com.heytap.music",
+      "program_name": "https://hackerone.com/mercadolibre",
+      "target": "com.mercadoenvios.logistics",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378919042+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/syfe_bbp",
+      "target": "https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378926607+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/bumble",
+      "target": "https://appdistribution.firebase.google.com/pub/i/505927432f64f04a",
       "category": "OTHER_APK",
-      "first_seen": "2025-03-03T07:53:09.059089142+05:30"
+      "first_seen": "2025-03-30T07:31:01.378944941+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/csg-public",
+      "target": "Citrix Secure Access client for macOS",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378963235+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playstation",
+      "target": "iOS Playstation App",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378974015+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/csg-public",
+      "target": "Citrix Secure Access client for Android",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378981038+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/playstation",
+      "target": "Android Playstation App",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-03-30T07:31:01.378991878+05:30"
     }
   ]
 }
