@@ -1,4 +1,11 @@
 {
-  "last_updated": "2025-04-07T08:07:46.785353338+05:30",
-  "targets": []
+  "last_updated": "2025-04-14T08:09:50.413637254+05:30",
+  "targets": [
+    {
+      "program_name": "https://hackerone.com/x",
+      "target": "ai.x.GrokApp",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-04-14T08:09:50.413543669+05:30"
+    }
+  ]
 }
