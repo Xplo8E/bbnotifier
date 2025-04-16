@@ -1,6 +1,7 @@
 module bugbounty-notifier
 
 go 1.22.2
+toolchain go1.24.1
 
 require (
 	github.com/sw33tLie/bbscope v0.0.0-20250116163545-1c911e85375a
@@ -14,7 +15,7 @@ require (
 	github.com/tidwall/gjson v1.14.3 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
