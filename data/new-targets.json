@@ -1,17 +1,4 @@
 {
-  "last_updated": "2025-04-21T08:12:41.812111584+05:30",
-  "targets": [
-    {
-      "program_name": "https://hackerone.com/syfe_bbp",
-      "target": "com.syfe",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-04-21T08:12:41.81197552+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/syfe_bbp",
-      "target": "https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-04-21T08:12:41.81199158+05:30"
-    }
-  ]
+  "last_updated": "2025-04-28T08:12:57.334633629+05:30",
+  "targets": []
 }
