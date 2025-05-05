@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-04-28T08:12:57.334633629+05:30",
-  "targets": []
+  "last_updated": "2025-05-05T08:14:48.855888204+05:30",
+  "targets": [
+    {
+      "program_name": "https://hackerone.com/audible",
+      "target": "379693831",
+      "category": "APPLE_STORE_APP_ID",
+      "first_seen": "2025-05-05T08:14:48.855738264+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/audible",
+      "target": "com.audible.application",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-05-05T08:14:48.855780803+05:30"
+    },
+    {
+      "program_name": "https://hackerone.com/x",
+      "target": "ai.x.grok",
+      "category": "GOOGLE_PLAY_APP_ID",
+      "first_seen": "2025-05-05T08:14:48.855795982+05:30"
+    }
+  ]
 }
