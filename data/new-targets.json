@@ -1,71 +1,35 @@
 {
-  "last_updated": "2025-05-12T08:16:08.325511301+05:30",
+  "last_updated": "2025-05-19T08:18:58.511671129+05:30",
   "targets": [
     {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "com.amazon.enterprise.access.android",
+      "program_name": "https://hackerone.com/hubspot",
+      "target": "HubSpot Android Mobile App",
       "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325251174+05:30"
+      "first_seen": "2025-05-19T08:18:58.511497264+05:30"
     },
     {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "com.amazon.swa.mobileapp",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325273506+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/eufy_security",
-      "target": "com.anker.charging",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325286339+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/mercadolibre",
-      "target": "com.mercadolibre.android.mplay_tv",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325297831+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "1151746202",
+      "program_name": "https://hackerone.com/grab",
+      "target": "1481198245",
       "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325312459+05:30"
+      "first_seen": "2025-05-19T08:18:58.511527711+05:30"
     },
     {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "6560104638",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325332005+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "com.amazon.aba.application",
+      "program_name": "https://hackerone.com/grab",
+      "target": "com.moveit.app.customer",
       "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325344769+05:30"
+      "first_seen": "2025-05-19T08:18:58.511552097+05:30"
     },
     {
-      "program_name": "https://hackerone.com/eufy_security",
-      "target": "id1635029057",
-      "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325369034+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "com.amazon.firetv.recast.blaster.aosp",
+      "program_name": "https://hackerone.com/magic-eden",
+      "target": "com.magiceden.wallet",
       "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325386046+05:30"
+      "first_seen": "2025-05-19T08:18:58.511572014+05:30"
     },
     {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "com.amazon.ihm.candycane",
-      "category": "GOOGLE_PLAY_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325397037+05:30"
-    },
-    {
-      "program_name": "https://hackerone.com/amazonvrp",
-      "target": "6479334468",
+      "program_name": "https://hackerone.com/hubspot",
+      "target": "HubSpot iOS Mobile App",
       "category": "APPLE_STORE_APP_ID",
-      "first_seen": "2025-05-12T08:16:08.325415481+05:30"
+      "first_seen": "2025-05-19T08:18:58.511584507+05:30"
     }
   ]
 }
